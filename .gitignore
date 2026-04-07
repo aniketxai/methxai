@@ -1,0 +1,46 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build outputs
+build/
+dist/
+frontend/dist/
+frontend/dist-ssr/
+coverage/
+.vite/
+
+# Local editor settings
+.vscode/
+!.vscode/extensions.json
+.idea/
+
+# Backend generated data / uploads
+backend/uploads/*
+
+# Hardware build artifacts
+hardware/esp32/build/
+hardware/esp32/CMakeFiles/
+hardware/esp32/*.bin
+hardware/esp32/*.elf
+hardware/esp32/*.map
+hardware/esp32/*.hex
+hardware/esp32/.pio/
