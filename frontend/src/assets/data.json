@@ -1,0 +1,257 @@
+[
+  {
+    "patient_summary": "Patient reports fever for two days with no signs of breathing difficulty or chest pain.",
+    "reported_symptoms": ["fever"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Fever is within normal range and no other severe symptoms present.",
+    "confidence": 0.95
+  },
+  {
+    "patient_summary": "The patient reports weakness lasting 2 days and headache, with no known medical allergies.",
+    "reported_symptoms": ["weakness", "headache"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with vitals within normal range.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports headaches lasting for 2 days.",
+    "reported_symptoms": ["headaches"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with no critical vitals or risk factors.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports headaches and body weakness for one day.",
+    "reported_symptoms": ["headaches", "weakness"],
+    "symptom_duration": "1 day",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with vitals within normal range.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports cough and throat weakness for two days.",
+    "reported_symptoms": ["cough", "throat weakness"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Symptoms are mild with no severe risk factors or abnormal vitals.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "The patient has been vomiting for 2 days and reports weakness, with no severe symptoms.",
+    "reported_symptoms": ["vomiting", "weakness"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with no severe signs of respiratory distress or cardiovascular issues.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports cold symptoms and body weakness, with a warm-up lasting 2 days.",
+    "reported_symptoms": ["cold", "weakness"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with vitals within normal range.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "The patient reports improvement from a recent illness and is currently experiencing mild symptoms.",
+    "reported_symptoms": ["improvement from recent illness"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms and vitals within normal range.",
+    "confidence": 0.95
+  },
+  {
+    "patient_summary": "The patient reports high evaluation results with no specific symptoms mentioned.",
+    "reported_symptoms": [],
+    "symptom_duration": "",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "No specific symptoms or abnormal vital signs were reported.",
+    "confidence": 0.95
+  },
+  {
+    "patient_summary": "Patient reports two days of cough, fever, and vomiting.",
+    "reported_symptoms": ["cough", "fever", "vomiting"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with vitals within normal range.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "The patient reports headache, body aches, and fever lasting for 2 days with vomiting.",
+    "reported_symptoms": ["headache", "body aches", "fever", "vomiting"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "urgent",
+    "reason_for_priority": "Fever > 39°C and persistent vomiting for 2 days.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports fever for 2 days and persistent vomiting.",
+    "reported_symptoms": ["fever", "vomiting"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with vitals within normal range.",
+    "confidence": 0.85
+  },
+  {
+    "patient_summary": "Patient reports being sick for two days with no specific symptoms mentioned.",
+    "reported_symptoms": [],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "No specific symptoms or vitals outside normal range.",
+    "confidence": 0.8
+  },
+  {
+    "patient_summary": "Patient reports diarrhea lasting for 2 days.",
+    "reported_symptoms": ["diarrhea"],
+    "symptom_duration": "2 days",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptoms with no signs of severe complications.",
+    "confidence": 0.95
+  },
+  {
+    "patient_summary": "The patient reports persistent vomiting for one day.",
+    "reported_symptoms": ["vomiting"],
+    "symptom_duration": "1 day",
+    "risk_factors": [],
+    "vitals": {
+      "heart_rate": 95,
+      "blood_pressure": "120/80",
+      "temperature": 37.5,
+      "spo2": 97,
+      "respiratory_rate": 18
+    },
+    "clinical_flags": [],
+    "triage_priority": "normal",
+    "reason_for_priority": "Mild symptom with no severe risk factors or abnormal vitals.",
+    "confidence": 0.85
+  }
+]
